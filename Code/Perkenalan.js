@@ -1,4 +1,4 @@
-const myName = 'Fathurrahman Ahmadi';
+const myName = 'Fathurrahman';
 const myDivision = 'Programing';
 const mySub = 'Machine Learning';
 
