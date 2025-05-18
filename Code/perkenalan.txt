@@ -1,0 +1,3 @@
+Nama: Fathurrahman Ahmadi
+Divisi: Programing
+Sub-Divisi: Machine Learning
